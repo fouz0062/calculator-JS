@@ -16,7 +16,7 @@ body {
 
 .grid {
     display: grid;
-    grid-template-rows: 20% 80%;
+    grid-template-rows: auto auto;
     box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.5);
 }
 
